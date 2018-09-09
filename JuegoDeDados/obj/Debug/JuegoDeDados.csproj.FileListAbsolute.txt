@@ -1,0 +1,6 @@
+C:\Users\developer\Desktop\JuegoDeDados\JuegoDeDados\bin\Debug\JuegoDeDados.exe.config
+C:\Users\developer\Desktop\JuegoDeDados\JuegoDeDados\bin\Debug\JuegoDeDados.exe
+C:\Users\developer\Desktop\JuegoDeDados\JuegoDeDados\bin\Debug\JuegoDeDados.pdb
+C:\Users\developer\Desktop\JuegoDeDados\JuegoDeDados\obj\Debug\JuegoDeDados.csprojResolveAssemblyReference.cache
+C:\Users\developer\Desktop\JuegoDeDados\JuegoDeDados\obj\Debug\JuegoDeDados.exe
+C:\Users\developer\Desktop\JuegoDeDados\JuegoDeDados\obj\Debug\JuegoDeDados.pdb
